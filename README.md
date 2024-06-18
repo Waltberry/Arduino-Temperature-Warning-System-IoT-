@@ -1,6 +1,6 @@
 # Arduino Temperature Warning System
 
-![Project Image] ![image](https://github.com/Waltberry/Arduino-Temperature-Warning-System-IoT-/assets/63509339/4d0af204-6e3d-4665-bdf3-9f0cc99b7f4d)
+![image](https://github.com/Waltberry/Arduino-Temperature-Warning-System-IoT-/assets/63509339/4d0af204-6e3d-4665-bdf3-9f0cc99b7f4d)
 
 
 ## Overview
@@ -27,7 +27,7 @@ The Arduino Temperature Warning System is an Internet-of-Things (IoT) project th
 
 ## Circuit Diagram
 
-![Circuit Diagram]![image](https://github.com/Waltberry/Arduino-Temperature-Warning-System-IoT-/assets/63509339/2a366d08-310e-4610-91c9-61c188b381a4)
+![image](https://github.com/Waltberry/Arduino-Temperature-Warning-System-IoT-/assets/63509339/2a366d08-310e-4610-91c9-61c188b381a4)
 
 
 ## Setup Instructions
