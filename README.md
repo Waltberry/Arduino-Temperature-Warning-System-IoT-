@@ -31,12 +31,7 @@ The Arduino Temperature Warning System is an Internet-of-Things (IoT) project th
 
 
 ## Setup Instructions
-
-1. **Duplicate the Project Template**
-   - Open the provided [project](https://wokwi.com/projects/401010374911803393).
-   - Click on "Save a copy" to duplicate the project.
-
-2. **Connect the LEDs to the Arduino**
+**Connect the LEDs to the Arduino**
    - Place three LEDs on the breadboard.
    - Connect the cathode (shorter leg) of each LED to the ground (GND) pin on the Arduino.
    - Connect the anode (longer leg) of each LED to digital pins (e.g., D2, D3, D4) through 220-ohm resistors.
